@@ -11,7 +11,7 @@ Tôi tập trung vào 3 loại nhiễu chính xuất hiện: Nhiễu do tiếng 
 
 Sau đó, trộn âm thanh nhiễu với giọng nói sạch với mức độ của âm thanh nhiễu ngẫu nhiên (20% đến 95%). Cuối cùng, dữ liệu huấn luyện gồm 6 giờ giọng nói có nhiễu (5 giờ training và 1 giờ validation).
 
-Sử dụng mã nguồn mở của Vincent Belz[[1]https://github.com/vbelz/Speech-enhancement] để chuyển đổi tín hiệu âm thanh từ miền thời gian sang miền tần số
+Sử dụng mã nguồn mở của Vincent Belz[[1](https://github.com/vbelz/Speech-enhancement)] để chuyển đổi tín hiệu âm thanh từ miền thời gian sang miền tần số
 
 # Huấn luyện
 
