@@ -18,7 +18,7 @@ Sử dụng mã nguồn mở của Vincent Belz[1](https://github.com/vbelz/Spee
 Mô hình sử dụng mạng U-N với đầu vào là phổ biên độ sau khi chuyển qua miền tần số của giọng nói nhiễu, đầu ra là phần nhiễu của giọng nói.
 
 <img src="images/denoise.gif">
-*Source: Vincent Belz[1](https://github.com/vbelz/Speech-enhancement)*
+*Source: Vincent Belz[1]*(https://github.com/vbelz/Speech-enhancement)
 
 Huấn luyện mô hình trên Google Colab
 
